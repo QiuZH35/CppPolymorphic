@@ -1,0 +1,6 @@
+﻿  Aclass.cpp
+  Bclass.cpp
+  mian.cpp
+d:\vs2017.数据\多文件编程\mian.cpp(23): error C2664: “void Aclass::show(Aclass *)”: 无法将参数 1 从“Bclass *”转换为“Aclass *”
+  d:\vs2017.数据\多文件编程\mian.cpp(23): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+  正在生成代码...

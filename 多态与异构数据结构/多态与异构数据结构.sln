@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "多态与异构数据结构", "多态与异构数据结构.vcxproj", "{DDB08250-9038-4ADF-86E1-F75FA8AFBC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB08250-9038-4ADF-86E1-F75FA8AFBC7C}.Debug|x64.ActiveCfg = Debug|x64
+		{DDB08250-9038-4ADF-86E1-F75FA8AFBC7C}.Debug|x64.Build.0 = Debug|x64
+		{DDB08250-9038-4ADF-86E1-F75FA8AFBC7C}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDB08250-9038-4ADF-86E1-F75FA8AFBC7C}.Debug|x86.Build.0 = Debug|Win32
+		{DDB08250-9038-4ADF-86E1-F75FA8AFBC7C}.Release|x64.ActiveCfg = Release|x64
+		{DDB08250-9038-4ADF-86E1-F75FA8AFBC7C}.Release|x64.Build.0 = Release|x64
+		{DDB08250-9038-4ADF-86E1-F75FA8AFBC7C}.Release|x86.ActiveCfg = Release|Win32
+		{DDB08250-9038-4ADF-86E1-F75FA8AFBC7C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8089595C-A06C-43F1-98F7-81D31C0AF7BF}
+	EndGlobalSection
+EndGlobal
